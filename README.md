@@ -21,8 +21,7 @@ This is a personal portfolio website showcasing smooth animations and interactiv
 
 ## 📸 Screenshots
 
-![Portfolio Screenshot](path-to-screenshot.png)  
-*(Add a screenshot of your site here)*
+![Portfolio Screenshot](https://github.com/CrazAr374/CV-Atharva/blob/main/Screenshot%202024-09-15%20153011.png)
 
 ## 🚀 Getting Started
 
